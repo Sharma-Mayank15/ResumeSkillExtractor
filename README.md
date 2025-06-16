@@ -1,6 +1,6 @@
 # Resume Skill Extractor (AI-Powered)
 
-A Java application that uses OpenAI API to intelligently extract key skills from a resume text file.
+A Java application that uses the OpenAI API to extract key skills from a resume text file intelligently.
 
 ## Features
 - Read resume content from file
@@ -16,7 +16,7 @@ A Java application that uses OpenAI API to intelligently extract key skills from
 ## Usage
 1. Add your OpenAI API key in `.env`
 2. Run `App.java`
-3. View extracted skills in console or file
+3. View extracted skills in the console or file
 
 ---
-Made with ❤️ by Mayank Sharma
+
