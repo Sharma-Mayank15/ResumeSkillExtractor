@@ -1,0 +1,4 @@
+John Doe
+Software Engineer with experience in Java, Spring Boot, React, and PostgreSQL.
+Previously worked on AI-powered analytics and cloud-native microservices.
+Interested in machine learning, data visualization, and APIs.
